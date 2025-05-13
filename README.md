@@ -1,5 +1,7 @@
 # Tap Hero
 
+<img src="app/src/main/res/drawable/icon.svg" alt="drawing" width="180"/>
+
 Tap Hero is a Kotlin-based mobile game for Android that utilizes the MVVM architecture and Jetpack Compose for an engaging user experience.
 
 ## Features
