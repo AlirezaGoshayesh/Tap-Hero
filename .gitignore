@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+
+# Android Studio files
+*.iml
+/.idea/*
+
+# Log files
+*.log
+
+# Android build files
+*.apk
+*.ap_
+/output.json
+
+# Java and Kotlin build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+/generated/
+*/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
